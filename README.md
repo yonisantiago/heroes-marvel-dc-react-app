@@ -1,3 +1,26 @@
+# Getting Started with Heroes App
+
+This is an app made with react 17, react-router-dom v6 , query-string, Bootstrap v5, and Animate.css. Contains a list of heroes of DC Comics and Marvel Comics, and an easter egg.
+
+## Install react-router-dom v6.
+
+[react-router-dom](https://reactrouter.com/)
+
+### `npm install react-router-dom@6`
+
+## Install query-string using npm.
+
+[npm query-string](https://www.npmjs.com/package/query-string)
+
+## Bootstrap v5.0.
+
+[Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+## Animate.css
+
+Use animate to give a nice animations to elements.
+[Animate.styles](https://animate.style/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +91,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# heroes-marvel-dc-react-app
