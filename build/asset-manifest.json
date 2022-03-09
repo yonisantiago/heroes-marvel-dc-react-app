@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/heroes-marvel-dc-react-app/static/css/main.aaa48df1.css",
+    "main.js": "/heroes-marvel-dc-react-app/static/js/main.c28d05cb.js",
+    "index.html": "/heroes-marvel-dc-react-app/index.html",
+    "main.aaa48df1.css.map": "/heroes-marvel-dc-react-app/static/css/main.aaa48df1.css.map",
+    "main.c28d05cb.js.map": "/heroes-marvel-dc-react-app/static/js/main.c28d05cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaa48df1.css",
+    "static/js/main.c28d05cb.js"
+  ]
+}
