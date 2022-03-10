@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/heroes-marvel-dc-react-app/static/css/main.aaa48df1.css",
-    "main.js": "/heroes-marvel-dc-react-app/static/js/main.ce653758.js",
+    "main.js": "/heroes-marvel-dc-react-app/static/js/main.49bf9888.js",
     "static/media/dc-wonder.jpg": "/heroes-marvel-dc-react-app/static/media/dc-wonder.970ba2d62a4636ff6afb.jpg",
     "static/media/dc-flash.jpg": "/heroes-marvel-dc-react-app/static/media/dc-flash.b3922f25f3765970d74c.jpg",
     "static/media/dc-martian.jpg": "/heroes-marvel-dc-react-app/static/media/dc-martian.78565f7df6238ef8a601.jpg",
@@ -26,10 +26,10 @@
     "static/media/dcmarvel.jpg": "/heroes-marvel-dc-react-app/static/media/dcmarvel.b0cedbf672bbc37778d4.jpg",
     "index.html": "/heroes-marvel-dc-react-app/index.html",
     "main.aaa48df1.css.map": "/heroes-marvel-dc-react-app/static/css/main.aaa48df1.css.map",
-    "main.ce653758.js.map": "/heroes-marvel-dc-react-app/static/js/main.ce653758.js.map"
+    "main.49bf9888.js.map": "/heroes-marvel-dc-react-app/static/js/main.49bf9888.js.map"
   },
   "entrypoints": [
     "static/css/main.aaa48df1.css",
-    "static/js/main.ce653758.js"
+    "static/js/main.49bf9888.js"
   ]
 }
